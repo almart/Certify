@@ -5,7 +5,6 @@ using System.Security;
 using System.Security.AccessControl;
 using System.Security.Cryptography.X509Certificates;
 using System.Security.Principal;
-using Certify.Lib;
 using Microsoft.Win32;
 using System.Text;
 
