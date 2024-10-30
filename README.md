@@ -1,4 +1,4 @@
-# Certify
+# Certify - Server 2012 Fix
 
 Certify is a C# tool to enumerate and abuse misconfigurations in Active Directory Certificate Services (AD CS).
 
